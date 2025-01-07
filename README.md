@@ -13,6 +13,3 @@ Build a predictive model to classify transactions as fraudulent or legitimate.
 
 ## Implementation
 Data Exploration: Understand and visualize data relationships.
-Feature Engineering: Extract meaningful features from raw data.
-Model Training: Train classification models to detect fraud.
-Evaluation: Assess performance using Precision, Recall, and ROC-AUC.
