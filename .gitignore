@@ -1,0 +1,10 @@
+/fraudpy
+/overview.md
+/data
+data/train_fraud_labels.json
+data/transactions_data.csv
+data/transactions_data.csv.gz
+data/mcc_codes.csv
+data/mcc_codes.csv.gz
+data/users_data.csv
+data/users_data.csv.gz

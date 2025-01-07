@@ -1,0 +1,7 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+data/train_fraud_labels.json filter=lfs diff=lfs merge=lfs -text
+Financial[[:space:]]Transaction[[:space:]]Dateset.zip filter=lfs diff=lfs merge=lfs -text
+data/transactions_data.csv filter=lfs diff=lfs merge=lfs -text
+data/mcc_codes.csv data/users_data.csv
+data/users_data.csv data/users_data.csv
